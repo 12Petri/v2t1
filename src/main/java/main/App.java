@@ -13,9 +13,6 @@ public class App {
         int startingSpeed = 0;
         newCar = new Car(brand, model, startingSpeed);
         int speed = newCar.getSpeed();
-       // System.out.println(newCar);
-        //System.out.println("Annoit valmistajan " + brand);
-        //System.out.println("Annoit mallin " + model);
 
         boolean exit = false;
         while(!exit) {
