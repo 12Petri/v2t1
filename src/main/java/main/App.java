@@ -62,7 +62,7 @@ public class App {
                     newCar.setSpeed(slowerSpeed);
                     break;
                 case 0:
-                    System.out.println("Kiitos ohjelman köytöstä.");
+                    System.out.println("Kiitos ohjelman käytöstä.");
                     exit = true;
                     break;
                 default:
