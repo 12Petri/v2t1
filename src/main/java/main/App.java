@@ -6,7 +6,7 @@ public class App {
     public static void main(String[] args) {
         Car newCar = null;
         Scanner sc = new Scanner(System.in);
-        System.out.print("Anna auton valmistaja: ");
+        System.out.print("Anna auton merkki: ");
         String brand = sc.nextLine();
         System.out.print("Anna auton malli: ");
         String model = sc.nextLine();
